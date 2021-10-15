@@ -1,0 +1,16 @@
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.exe
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.deps.json
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.runtimeconfig.json
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.runtimeconfig.dev.json
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.dll
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\ref\collections.dll
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\bin\Debug\net5.0\collections.pdb
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.csproj.AssemblyReference.cache
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.AssemblyInfoInputs.cache
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.AssemblyInfo.cs
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.dll
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\ref\collections.dll
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.pdb
+C:\Users\gulom\source\repos\08162021-dotnet-uta\tutorial\collections\obj\Debug\net5.0\collections.genruntimeconfig.cache

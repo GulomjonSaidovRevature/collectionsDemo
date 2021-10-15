@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gulom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gulom\\.nuget\\packages"
+    ]
+  }
+}
